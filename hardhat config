@@ -1,4 +1,6 @@
-To initialise a hardhat project 
+Go to your terminal and install hardhat by typing
+npm install --save-dev hardhat
+To initialise a hardhat project
 npx hardhat init
 To compile a project
 npx hardhat compile
